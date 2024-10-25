@@ -37,4 +37,4 @@ This is a basic command-line calculator built in Python. The calculator allows u
 
 1. Clone the repository from GitHub to your local machine:
    ```bash
-   git clone https://github.com/YourUsername/simple-calculator.git
+   git clone https://github.com/Zukiny/Command-line-Calculator.git
